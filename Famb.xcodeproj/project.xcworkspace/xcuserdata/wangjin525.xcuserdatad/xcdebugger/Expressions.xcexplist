@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Famb.LoginViewController.(fetchProfile (Famb.LoginViewController) -&gt; () -&gt; ()).(closure #1):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Famb.Account.isAuthorized (Famb.Account)() -&gt; Swift.Bool:Account.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Famb.APIClient.(logInFacebook (Famb.APIClient) -&gt; (Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, email : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, gender : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, location : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, facebookId : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, completion : Swift.ImplicitlyUnwrappedOptional&lt;(successed : Swift.Bool) -&gt; ()&gt;) -&gt; ()).(closure #1):APIClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseObject as NSDictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
